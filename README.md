@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @ku-bo-mi
+- 👋 Hi, I’m Kubomi!
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning python, java, flutter
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💬 [Twitter](https://twitter.com/kubomi____)
 
 <!---
 ku-bo-mi/ku-bo-mi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
