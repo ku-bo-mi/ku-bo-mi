@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Kubomi!
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning python, java, flutter
+- 🌱 I’m currently studying Computer Science at Master's degree. Also learning iOS development.
+- ✏️ Languages: Swift, Python, Java
 - 💬 [Twitter](https://twitter.com/kubomi____)
 
 <!---
