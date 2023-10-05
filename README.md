@@ -2,7 +2,6 @@
 - 🌱 I’m a master student studying Computer Science at University of Pennsylvania.
 - 👀 I’m interested in software development, especially iOS development.
 - ✏️ Languages: Java, Python, Swift, C
-- 💬 [Twitter](https://twitter.com/kubomi____)
 
 <!---
 ku-bo-mi/ku-bo-mi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
