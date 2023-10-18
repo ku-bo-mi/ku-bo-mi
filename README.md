@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kubomi!
-- 🌱 I’m a master student studying Computer Science at University of Pennsylvania.
-- 👀 I’m interested in software development, especially iOS development.
-- ✏️ Languages: Java, Python, Swift, C
+- 🌱 I’m a master student studying Computer Science.
+- 👀 I’m interested in iOS development.
+- ✏️ Languages: Swift, Java, Python, C
 
 <!---
 ku-bo-mi/ku-bo-mi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
